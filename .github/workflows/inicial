@@ -26,6 +26,8 @@ jobs:
       - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
+      - name: install dependency
+        run: npm i
       - name: Build documentation
         run: npm run docs:build
 
