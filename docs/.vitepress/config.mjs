@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Portfolio",
   description: "Is a portfolio of Ignacio Villca",
+  base: "/mi-portfolio/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
