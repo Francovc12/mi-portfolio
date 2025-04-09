@@ -141,4 +141,19 @@ img{
   max-width: 10%;
   height: 40px;
   display: inline;
+  padding-right: 12px;
+}
+.Redes{
+  width: 30px;
+  height: auto;
+}
+
+.links{
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 12px;
+  align-content: flex-end;
+  align-items: baseline;
 }
