@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Proyectos
       link: /proyectos
+    - theme: alt
+      text: Sobre mi
+      link: /sobre-mi
 
 
 features:
